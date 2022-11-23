@@ -9,7 +9,7 @@
 
 [4. Этапы работы над проектом](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Результаты)
+[5. Результаты](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Результаты)
 
 [6. Выводы](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Выводы)
 
@@ -32,6 +32,21 @@
 **Что практикуем?** Учитмся писать хороший код на Python
 
 ### Краткая информация о данных
-.......
+...
+
+:arrow_up: [к оглавлению](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+### Этапы работы над проектом
+...
+
+:arrow_up: [к оглавлению](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+### Результаты
+...
+
+:arrow_up: [к оглавлению](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+### Выводы
+...
 
 :arrow_up: [к оглавлению](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Оглавление)
