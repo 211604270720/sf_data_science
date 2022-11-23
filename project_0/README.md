@@ -42,11 +42,12 @@
 :arrow_up: [к оглавлению](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Результаты
-...
+Написана программа с помощью алгаритма бинарного поиска 
+[Ссылка на код](https://github.com/211604270720/sf_data_science/blob/main/project_0/game_v3.py)
 
 :arrow_up: [к оглавлению](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Выводы
-...
+Написана программа реализующая в среднем поиск до 10 попыток.
 
 :arrow_up: [к оглавлению](https://github.com/211604270720/sf_data_science/tree/main/project_0/README.md#Оглавление)
